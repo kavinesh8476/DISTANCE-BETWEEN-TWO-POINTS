@@ -7,7 +7,8 @@ To write a python program to find the distance two 2 points
 import the math library to solve using distance formula
 ### Step 2: 
 enter the given matrices
-### Step 3: Substitute the values in the distance formula  ![formula](formula.jpg)
+### Step 3:
+Substitute the values in the distance formula  ![formula](formula.jpg)
 ### Step 4: 
 Print the output with two values after decimal 
 ### PROGRAM:
